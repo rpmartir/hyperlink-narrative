@@ -16,11 +16,7 @@
     /* turn borders off and on to see the borders of the display area */
   }
   
-  @font-face {
-    font-family: "Futura Press";
-    src: url(FUTURAPR.woff) format("woff"),
-         url(FUTURAPR.ttf)  format("truetype");
-  }
+
   
   .russo-one-regular {
     font-family: "Russo One", serif;
@@ -29,7 +25,7 @@
   }
   
   h1 {
-    color: black;
+    color: rgb(217, 217, 217);
     font-size: 3rem;
     text-align: center;
   }
