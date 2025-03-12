@@ -24,7 +24,8 @@
     font-style: normal;
   }
   h1 {
-    color: rgb(217, 217, 217);
+    font-family: 'Rock Salt';
+    color: rgb(248, 184, 174);
     font-size: 3rem;
     text-align: center;
   }
