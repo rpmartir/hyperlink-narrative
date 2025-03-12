@@ -4,7 +4,7 @@
   }
   
   body {
-    background-color: #0075a0;
+    background-color: #13c14a;
     font-family: Helvetica, Arial, sans-serif;
   }
   
@@ -18,12 +18,11 @@
   
 
   
-  .russo-one-regular {
-    font-family: "Russo One", serif;
+  .rock-salt-regular {
+    font-family: "Rock Salt", cursive;
     font-weight: 400;
     font-style: normal;
   }
-  
   h1 {
     color: rgb(217, 217, 217);
     font-size: 3rem;
@@ -31,14 +30,21 @@
   }
   
   h2 {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Rock Salt';
     color: dodgerblue;
     font-size: 2.5rem;
     text-align: left;
   }
   
+  .atkinson-hyperlegible-next-ale {
+    font-family: "Atkinson Hyperlegible Next", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+
   h3 {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Atkinson Hyperlegible Next';
     font-size: 1rem;
     text-align: right;
     margin-top: -2.5rem;
